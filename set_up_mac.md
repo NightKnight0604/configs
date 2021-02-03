@@ -22,3 +22,5 @@ echo 'eval $(/opt/homebrew/bin/brew shellenv)' >> /Users/tong/.zprofile
 1. `git config --global user.name "Ben"`
 1. `git config --global user.email "benwong0604@gmail.com"`
 
+### Oh my Zsh
+Follow instructions at: https://gist.github.com/kevin-smets/8568070
