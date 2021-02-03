@@ -24,3 +24,14 @@ echo 'eval $(/opt/homebrew/bin/brew shellenv)' >> /Users/tong/.zprofile
 
 ### Oh my Zsh
 Follow instructions at: https://gist.github.com/kevin-smets/8568070
+
+### zsh alias
+alias ta='tmux attach -t'
+alias tad='tmux attach -d -t'
+alias tn='tmux new-session -s'
+alias tl='tmux list-sessions'
+alias tks='tmux kill-session -t'
+alias tksv='tmux kill-server'
+
+alias lr='ls -ltr'
+
